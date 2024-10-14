@@ -1,35 +1,35 @@
 body{
-    background-color: gray;
-    font-size: 3em;
+    /*background-color: rgb(214, 233, 179);*/
+    font-size: 1em;
 }
 
 section{
-    margin: 3em;
+    margin: 1em;
     display: block;
     background-color: aliceblue;
     text-align: center;
     opacity: 0.9;
-    border-color: black;
+    border-color: rgb(77, 48, 48);
     border: 1px;
 }
 
 form{
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
 }
 input{
-    border-color: gray;
+    border-color: rgb(150, 196, 232);
     margin: 1em;
     margin-bottom: 1rem;
-    padding: 1.1em;
+    /*padding: 1.1em;*/
 }
 button{
-    border-radius: 0.5%;
-    text-shadow: 0.05em 0.05em 0.05em #666666;
-    font-size: 4rem;
-    background-color: #666666;
+    border-radius: 5%;
+    text-shadow: 0.05em 0.05em 0.05em #87dfb6;
+    font-size: 1rem;
+    background-color: #d48484;
     color: white;
 }
 
 label{
-    size: 5rem;
+    size: 1rem;
 }

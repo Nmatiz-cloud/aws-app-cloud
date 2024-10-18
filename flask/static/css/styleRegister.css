@@ -6,7 +6,7 @@ body{
 section{
     margin: 1em;
     display: block;
-    background-color: aliceblue;
+    background-color: rgb(180, 246, 234);
     text-align: center;
     opacity: 0.9;
     border-color: rgb(77, 48, 48);
@@ -17,7 +17,7 @@ form{
     padding-bottom: 1rem;
 }
 input{
-    border-color: rgb(150, 196, 232);
+    border-color: rgb(140, 252, 211);
     margin: 1em;
     margin-bottom: 1rem;
     /*padding: 1.1em;*/
